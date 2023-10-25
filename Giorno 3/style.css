@@ -1,0 +1,47 @@
+html{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #333;
+}
+header{
+    text-align: center;
+   
+}
+header p {
+    background-color: rgb(247, 224, 151);
+}
+header img {
+    width: 200px;
+  
+}
+article {
+    width: 100%;
+    text-align: justify;
+}
+article h1 {
+    text-align: center;
+}
+article figure img {
+    width: 100%;
+}
+article figure figcaption {
+    text-align: center;
+    color: grey;
+}
+div.featured p {
+    color: rgb(240, 181, 71);
+}
+div.featured a {
+    color: rgb(29, 206, 147);
+}
+h2 {
+    font-size: 0.9em;
+}
+section p{
+    font-weight: bold;
+}
+p.focaccia {
+    font-weight: lighter;
+}
+section.method a {
+    color: rgb(29, 206, 147);
+}
