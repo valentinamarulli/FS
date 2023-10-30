@@ -67,14 +67,16 @@ console.log (mioname);
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
 
-let name1 = "john";
+
+/*let name1 = "john";
 let name2 = "John";
-const uguaglianza = (name1 !== name2);
-console.log(uguaglianza); // riporta true D1.js:73 
+let uguaglianza = (name1 !== name2);
+console.log(uguaglianza); // riporta true D1.js:73
+console.log(name1 === name2); //riporta false D1.js:74 false*/ 
 
 //EXTRA
 
-const name1Lowercase = name1.toLowerCase;
+/*const name1Lowercase = name1.toLowerCase;
 const name2Lowercase = name2.toLowerCase;
 
 if (name1Lowercase === name2Lowercase) {
@@ -82,4 +84,4 @@ if (name1Lowercase === name2Lowercase) {
 } else {
   console.log("Le stringhe non sono uguali in lowercase");   // riporta Le stringhe sono uguali in lowercase D1.js:81 
 }
-
+*/
